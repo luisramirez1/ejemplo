@@ -13,3 +13,8 @@ table
 	padding: 0 auto;
 	display: none;
 }
+
+h2
+{
+	display: none;
+}
